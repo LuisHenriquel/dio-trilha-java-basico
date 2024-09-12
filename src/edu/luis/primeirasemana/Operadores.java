@@ -102,6 +102,7 @@ public class Operadores {
 
         System.out.println(nomeUm.equals(nomeDois));
       /*
+        Lógicos
         Os operadores lógicos representam o recursi que nos permite criar expressões lógicas maiores
         a partir da junção de duas ou mais expressões.
 
